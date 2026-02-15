@@ -6,3 +6,4 @@ llm_cache.json
 *.ogg
 lanka_bot.tar
 ragas_report.csv
+.langchain.db
